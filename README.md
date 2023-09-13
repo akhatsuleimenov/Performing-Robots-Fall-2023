@@ -3,4 +3,5 @@
 
   <br>Sketch of the BMO robot<br/>
 
-![BMO image](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/BMO.png?raw=true)
+![BMO image](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/homework/13-08/BMO.png?raw=true)
+![Sketch image](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/homework/13-08/20230913_140833.jpg?raw=true)
