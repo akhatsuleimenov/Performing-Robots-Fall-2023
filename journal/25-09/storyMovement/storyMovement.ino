@@ -19,40 +19,44 @@ void setup() {
 }
 
 void loop() {
-  digitalWrite(Motor11, forward);
-  digitalWrite(Motor12, !forward);
-  digitalWrite(Motor21, !forward);
-  digitalWrite(Motor22, forward);
-  delay(50);
-
   // shivering fast
-  for (i=0; i<70; i++){
+  delay(2000);
+  for (int i = 0; i < 70; i++) {
+    digitalWrite(Motor11, forward);
+    digitalWrite(Motor12, !forward);
+    digitalWrite(Motor21, !forward);
+    digitalWrite(Motor22, forward);
     forward = !forward;
     delay(50);
   }
 
   // shivering slow
-  for (i=0; i<10; i++){
+  for (int i = 0; i < 8; i++) {
     forward = !forward;
+    digitalWrite(Motor11, forward);
+    digitalWrite(Motor12, !forward);
+    digitalWrite(Motor21, !forward);
+    digitalWrite(Motor22, forward);
     delay(150);
-  }  
+  }
   //stop for 10 seconds
   digitalWrite(Motor11, LOW);
   digitalWrite(Motor12, LOW);
   digitalWrite(Motor21, LOW);
   digitalWrite(Motor22, LOW);
-  delay(10000);
+  delay(8000);
 
   // move a bit forward
-  analogWrite(Motor11, 100);
-  analogWrite(Motor12, LOW);
-  analogWrite(Motor21, 100);
-  analogWrite(Motor22, LOW);
-  delay(800);
+  digitalWrite(Motor11, HIGH);
+  digitalWrite(Motor12, LOW);
+  digitalWrite(Motor21, HIGH);
+  digitalWrite(Motor22, LOW);
+  delay(500);
 
   // stop
   digitalWrite(Motor11, LOW);
   digitalWrite(Motor12, LOW);
   digitalWrite(Motor21, LOW);
   digitalWrite(Motor22, LOW);
+  delay(20000);
 }
