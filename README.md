@@ -13,4 +13,4 @@
 <p>The robot soon realises that you are cooking something very delicious and approaches toward you.</p>
 <p>It is just you and your robot, having a silent dinner.</p>
 
-![StoryCode]()
+![StoryCode](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/journal/25-09/storyMovement/storyMovement.ino)
