@@ -8,4 +8,4 @@ It is just you and your robot, having a silent dinner.
 
 ![StoryCode](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/journal/25-09/storyMovement.ino)
 
-![Video](https://drive.google.com/file/d/1ATXmTf-Vh6Nho5eP6FUhBg1rUg_YC_e5/view?usp=sharing)
+https://drive.google.com/file/d/1ATXmTf-Vh6Nho5eP6FUhBg1rUg_YC_e5/view?usp=sharing
