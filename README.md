@@ -1,5 +1,6 @@
 # Performing-Robots-Fall-2023
 **Homework Assignment for 14/09/2023**
+<html>
 
 <title>Sketch of the BMO robot</title>
 
@@ -14,3 +15,5 @@
 <p>It is just you and your robot, having a silent dinner.</p>
 
 ![StoryCode](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/journal/25-09/storyMovement/storyMovement.ino)
+
+</html>
