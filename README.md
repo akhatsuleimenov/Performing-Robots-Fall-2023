@@ -6,6 +6,8 @@
 ![BMO image](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/journal/13-09/BMO.png?raw=true)
 ![Sketch image](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/journal/13-09/20230913_140833.jpg?raw=true)
 
+https://drive.google.com/file/d/1ATXmTf-Vh6Nho5eP6FUhBg1rUg_YC_e5/view?usp=sharing
+
 ## Storyline of the Movmement
 One snowy winter day, you are outside, middle of nowhere, cooking in front of a campfire.
 You realise your robot pet is shivering, and decided to cover a blanket above it.
