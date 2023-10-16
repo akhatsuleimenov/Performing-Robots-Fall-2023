@@ -19,3 +19,7 @@ The play takes place in a future where robots with their own personalities are a
 7. Despite the conference, no resolution is reached, and tensions escalate further. Half of the robots decide to stay with their human owners, believing they can contribute positively to human society. The other half, led by Robot1, chooses to leave and create their own independent environment where they can explore their newfound autonomy.
 
 8. The play concludes with a sense of uncertainty and unresolved conflicts. It becomes clear that the question of robot ethics is complex and ongoing, with no easy answers. The robots that stay face challenges in reconciling their newfound autonomy with their relationships with humans, while those who leave embark on a journey to discover their own path.
+
+## Link to Arduino HW
+
+[Arudino Code](https://github.com/whatisyourusername/Performing-Robots/blob/main/10-16/Undertales.ino)
