@@ -348,4 +348,4 @@ Accrylic window setup [TODO]
 ## Week 12 | 15/11/2023
 Eye holes setup [TODO]
 ## Week 13 | 22/11/2023
-Paper and presentation
+[Paper](https://docs.google.com/document/d/1GWYwOprq4H6EBz32FNGcCWj1wD0CHPWjhjNsPnzFj-g/edit?usp=sharing) and [Presentation](https://docs.google.com/presentation/d/1tVpEdi1XEciWkE37BBJHXUYmI2bQWZY4fT_XRIudnSY/edit?usp=sharing)
