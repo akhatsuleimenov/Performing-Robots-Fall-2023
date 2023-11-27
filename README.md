@@ -344,8 +344,16 @@ Today we attached the servo motor and made sure it works with the acrylic window
 <img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/01-11/10(1).jpg">
 <img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/01-11/10(2).jpg">
 ## Week 11 | 8/11/2023
-Accrylic window setup [TODO]
+This week we primarily worked on the acrylic window setup. The window serves the job of "showing off" the insides of our robot(which will be decorated later). With the help of the servo motor, the window will go down and up. We attached the nylon string to the wood that's attached to the servo motor. Other strings were not strong enough to hold the weight of the window. Also, the nylon string broke once when we coded the servo motor to go in a different direction which put a lot of tension on the string. In the second photo, one can see how clearly we organized our cables :)
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/08-11/IMG_1485.jpg">
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/08-11/IMG_1486.jpg">
 ## Week 12 | 15/11/2023
-Eye holes setup [TODO]
+This week we finalized our neopixel face. Originally, we planned to have only 1 neopixel which would show the emotion of the robot. Later, discovering that there are 2 more neopixels, we decided to switch to an eyes and mouth setup. Here is what it looks like.
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/15-11/IMG_1484.jpg">
 ## Week 13 | 22/11/2023
 [Paper](https://docs.google.com/document/d/1GWYwOprq4H6EBz32FNGcCWj1wD0CHPWjhjNsPnzFj-g/edit?usp=sharing) and [Presentation](https://docs.google.com/presentation/d/1tVpEdi1XEciWkE37BBJHXUYmI2bQWZY4fT_XRIudnSY/edit?usp=sharing)
+
+Finally, we finished all the mechanisms of our robot. Now, with the help of Remote Controllers, we can control the state of the robot, as in light LEDs, play music, and move servo motor, and move the robot itself. All the cables were reorganized. Here is the final look. 
+
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/22-11/IMG_1487.jpg">
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/22-11/IMG_1488.jpg">
