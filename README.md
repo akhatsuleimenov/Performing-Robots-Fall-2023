@@ -7,17 +7,17 @@
 
 ## Week 4 | 20/09/2023##
 Worked on the Robot base. Made the following progress. Soldered some wires and created the base structure 
-![Base bottom](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/13-09/bottom.HEIC?raw=true)
-![BMO image](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/13-09/soldering.jpg?raw=true)
-![Base top](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/13-09/top.HEIC?raw=true)
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/18-09/bottom.jpg" width="266" height="266">
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/18-09/soldering.jpg" width="266" height="266">
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/18-09/top.jpg" width="266" height="266">
 
 ## Week 5 | 27/09/2023##
 ### Storyline of the Movement 
 One snowy winter day, you are outside, middle of nowhere, cooking in front of a campfire. You realise your robot pet is shivering, and decided to cover a blanket above it. The robot feals warm, and stops shivering. The robot soon realises that you are cooking something very delicious and approaches toward you. It is just you and your robot, having a silent dinner.
 
-![StoryCode](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/25-09/storyMovement.ino?raw=true)
+[StoryCode](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/25-09/storyMovement.ino)
 
-![Video of Movement](https://drive.google.com/file/d/1ATXmTf-Vh6Nho5eP6FUhBg1rUg_YC_e5/view?usp=sharing)
+[Video of Movement](https://drive.google.com/file/d/1ATXmTf-Vh6Nho5eP6FUhBg1rUg_YC_e5/view?usp=sharing)
 
 ## Week 6 | 4/10/2023
 ### Controlling the robot with an RC 
@@ -304,6 +304,12 @@ if ((rc_values[RC_CH2] < 1520) && (rc_values[RC_CH2] > 1500)) stop();
 
 
 ## Week 7 | 11/10/2023
+### Building the robot body
+Started building the robot body. Our robot will be 1 meter long streamer robot who will show of his insides from an acryllic window.
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/11-10/7(1).jpg" width="266" height="266">
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/11-10/7(2).jpg" width="266" height="266">
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/11-10/7(3).jpg" width="266" height="266">
+
 ## Week 8 | 18/10/2023
 ### Concept
 
@@ -332,7 +338,14 @@ The play takes place in a future where robots with their own personalities are a
 [Arudino Code](https://github.com/whatisyourusername/Performing-Robots/blob/main/10-16/Undertales.ino)
 
 ## Week 9 | 25/10/2023
+[Paper](https://docs.google.com/document/d/1bamsMi9kxXfDKJMTSolkA71EyvGGeR02lbcoXJmRrIY/edit?usp=sharing) and [Presentation](https://docs.google.com/presentation/d/1bjuwWDi8qUabNC9vWJ33MPDOggMC-z0dG8fm2AU_r2A/edit?usp=sharing)
 ## Week 10 | 1/11/2023
+Today we attached the servo motor and made sure it works with the acrylic window. Also configured the neopixel and started wiring the cables.
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/01-11/10(1).jpg">
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/01-11/10(2).jpg">
 ## Week 11 | 8/11/2023
+Accrylic window setup [TODO]
 ## Week 12 | 15/11/2023
+Eye holes setup [TODO]
 ## Week 13 | 22/11/2023
+[Paper](https://docs.google.com/document/d/1GWYwOprq4H6EBz32FNGcCWj1wD0CHPWjhjNsPnzFj-g/edit?usp=sharing) and [Presentation](https://docs.google.com/presentation/d/1tVpEdi1XEciWkE37BBJHXUYmI2bQWZY4fT_XRIudnSY/edit?usp=sharing)
