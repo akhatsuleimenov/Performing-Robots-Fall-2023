@@ -364,5 +364,8 @@ Our robot is fully functioning with different states ready. However, one of our 
 Due to the national holiday, one of the classes got canceled. We met with Professor 1-1 to fix the broken motor. Apparently, it was the H-Bridge that was the problem. Now all that is needed is decoration.
 
 ## Week 15 | 06/12/2023
+This week we have been working on the states of the robot and preparing the robot for the show. Finalized the script, demoed it with the professor. Uploaded the AI speeches to the robot, charged all the batteries, and reconfigured the moving of the robot.
+
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/06-12/IMG_1829.jpg">
 
 ## Week 15 | 13/12/2023
