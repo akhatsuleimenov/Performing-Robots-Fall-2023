@@ -358,10 +358,14 @@ Finally, we finished all the mechanisms of our robot. Now, with the help of Remo
 <img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/22-11/IMG_1487.jpg">
 <img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/22-11/IMG_1488.jpg">
 
-## Week 14 | 29/11/2023
+## Week 14 | 29/11/2023 [INSERT PICTURES]
 Our robot is fully functioning with different states ready. However, one of our motors broke down right during the class. Due to that, we were not able to fix that in time to showcase our robot during the parade. Here are some pictures of our robot showcasing UAE flags using neopixel and the general design of the robot using stickers.
 
-<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/29-11/IMG_1487.jpg">
-<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/29-11/IMG_1487.jpg">
+Due to the national holiday, one of the classes got canceled. We met with Professor 1-1 to fix the broken motor. Apparently, it was the H-Bridge that was the problem. Now all that is needed is decoration.
 
 ## Week 15 | 06/12/2023
+This week we have been working on the states of the robot and preparing the robot for the show. Finalized the script, demoed it with the professor. Uploaded the AI speeches to the robot, charged all the batteries, and reconfigured the moving of the robot.
+
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/06-12/IMG_1829.jpg">
+
+## Week 15 | 13/12/2023
