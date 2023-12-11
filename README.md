@@ -375,7 +375,7 @@ Here are some of the "sponsors" of our robot. Since our robot is a streamer and 
 ## Week 16 | 13/12/2023
 This week we are practicing the play. I have worked on different expressions for our robot. It was pretty tough, but I found a way to make it much easier. I created 8x8 grids in Google Sheets, numbered them, and colored them the way I wanted the robot's expression to be. This made the process of finding the right indexes much easier! Also, it helped to find patterns between indexes, which shortened the code significantly! Below is the picture of the faces I created on Google Sheets.
 
-<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/13-12/faces.jpg">
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/13-12/faces.png">
 
 Here is what it looks like on the robot:
 
