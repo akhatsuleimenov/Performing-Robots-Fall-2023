@@ -358,14 +358,52 @@ Finally, we finished all the mechanisms of our robot. Now, with the help of Remo
 <img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/22-11/IMG_1487.jpg">
 <img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/22-11/IMG_1488.jpg">
 
-## Week 14 | 29/11/2023 [INSERT PICTURES]
+## Week 14 | 29/11/2023
 Our robot is fully functioning with different states ready. However, one of our motors broke down right during the class. Due to that, we were not able to fix that in time to showcase our robot during the parade. Here are some pictures of our robot showcasing UAE flags using neopixel and the general design of the robot using stickers.
 
 Due to the national holiday, one of the classes got canceled. We met with Professor 1-1 to fix the broken motor. Apparently, it was the H-Bridge that was the problem. Now all that is needed is decoration.
 
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/29-11/IMG_1841.jpg">
+
 ## Week 15 | 06/12/2023
-This week we have been working on the states of the robot and preparing the robot for the show. Finalized the script, demoed it with the professor. Uploaded the AI speeches to the robot, charged all the batteries, and reconfigured the moving of the robot.
+This week we have been working on the states of the robot and preparing the robot for the show. Finalized the script, demoed it with the professor. Uploaded the AI speeches to the robot, charged all the batteries, and reconfigured the moving of the robot. Here is the link to [receiver code](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/code/receiver.c) and [transmitter code](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/code/transmitter.c).
 
-<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/06-12/IMG_1829.jpg">
+Here are some of the "sponsors" of our robot. Since our robot is a streamer and influencer, we thought to give it those ads stickers that showcase his personality.
 
-## Week 15 | 13/12/2023
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/06-12/IMG_1840.jpg">
+
+## Week 16 | 13/12/2023
+This week we are practicing the play. I have worked on different expressions for our robot. It was pretty tough, but I found a way to make it much easier. I created 8x8 grids in Google Sheets, numbered them, and colored them the way I wanted the robot's expression to be. This made the process of finding the right indexes much easier! Also, it helped to find patterns between indexes, which shortened the code significantly! Below is the picture of the faces I created on Google Sheets.
+
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/13-12/faces.jpg">
+
+Here is what it looks like on the robot:
+
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/13-12/IMG_1842.jpg">
+<img src="https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/blob/main/media/13-12/IMG_1843.jpg">
+
+Here is a snippet of one of the faces:
+```
+void confused_face(int color) {
+  // LEFT & RIGHT EYE
+  for (int k = 0; k < 2; k++) {
+    for (int i = 0; i < 4; i++) {
+      neopixels[k].setPixelColor(i + 2, colors[color]);
+      neopixels[k].setPixelColor(i + 58, colors[color]);
+    }
+    for (int i = 0; i < 2; i++) {
+      neopixels[k].setPixelColor(i * 5 + 9, colors[color]);
+      neopixels[k].setPixelColor(i * 5 + 49, colors[color]);
+    }
+    for (int i = 0; i < 4; i++) {
+      neopixels[k].setPixelColor(i * 8 + 16, colors[color]);
+      neopixels[k].setPixelColor(i * 8 + 23, colors[color]);
+    }
+  }
+  // MOUTH
+  for (int i = 0; i < 4; i++) {
+    neopixels[2].setPixelColor(i * 7 + 35, colors[color]);
+    neopixels[2].setPixelColor(i * 9 + 36, colors[color]);
+  }
+}
+```
